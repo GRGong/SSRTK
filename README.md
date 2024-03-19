@@ -1,2 +1,2 @@
 # SSRTK
-Sex specific reads toolkit
+## Sex Specific Reads Toolkit
